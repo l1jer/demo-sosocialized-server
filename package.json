@@ -16,6 +16,5 @@
 		"graphql": "^15.4.0",
 		"jsonwebtoken": "^8.5.1",
 		"mongoose": "^5.10.16"
-	},
-	"proxy": "https://socialmedia-db.netlify.app"
+	}
 }
