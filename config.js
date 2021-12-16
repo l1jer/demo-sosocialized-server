@@ -1,7 +1,7 @@
 module.exports = {
-	MONGODB:
-		'mongodb+srv://jerryli:nolUHJ1574FJL0Cu@jerrydemos.x40ct.mongodb.net/merng-demo?retryWrites=true&w=majority',
-	SECRET_KEY: 'secret key here',
+  MONGODB:
+    "mongodb+srv://jerryli:nolUHJ1574FJL0Cu@jerrydemos.x40ct.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  SECRET_KEY: "secret key here",
 };
 
 // username n database name are easily be forgotten here
